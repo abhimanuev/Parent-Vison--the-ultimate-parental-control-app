@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScreenTime Guardian</string>
+    <string name="accessibility_service_label">ScreenTime Guardian Service</string>
+    <string name="accessibility_service_desc">Enforces parental time limits by monitoring foreground apps and displaying break reminders when limits expire.</string>
+</resources>
